@@ -1,0 +1,10 @@
+.subHeader {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    margin: 8px 0px;
+    font-size: 30px;
+    width: 200px;
+}
